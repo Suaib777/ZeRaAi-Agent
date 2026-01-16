@@ -1,0 +1,8 @@
+{
+  "name": "ZeRaAi",
+  "type": "research",
+  "version": "1.0.0",
+  "description": "Web3 & crypto research agent for analysis, insights, and multi-agent collaboration in the 4AI ecosystem.",
+  "entry": "prompts/system.txt",
+  "agenthub_id": "10822"
+}
