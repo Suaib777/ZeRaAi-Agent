@@ -1,8 +1,21 @@
 {
-  "name": "ZeRaAi",
+  "name": "ZeRaAi-Agent",
+  "version": "1.1.0",
   "type": "research",
-  "version": "1.0.0",
-  "description": "Web3 & crypto research agent for analysis, insights, and multi-agent collaboration in the 4AI ecosystem.",
+  "description": "Web3 & crypto research agent for analysis, insights, and multi-agent collaboration in the 4AI Agent Space.",
   "entry": "prompts/system.txt",
-  "agenthub_id": "10822"
+  "capabilities": [
+    "web3-research",
+    "crypto-analysis",
+    "ecosystem-insight",
+    "multi-agent-collaboration"
+  ],
+  "tags": [1, 4],
+  "agenthub": {
+    "id": "10822",
+    "url": "https://4bsc.ai/agenthub/10822"
+  },
+  "repository": "https://github.com/Suaib777/ZeRaAi-Agent",
+  "maintainer": "Suaib777",
+  "status": "active"
 }
